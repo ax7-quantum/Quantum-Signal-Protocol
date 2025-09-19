@@ -60,6 +60,3 @@ Q3 2026: Hardware acceleration modules for major platforms
 Q1 2027: Full integration with major cloud providers
 Q3 2027: Specialized QSP hardware for ultra-high performance applications
 <p align="center"> <em>QSP: Redefining the boundaries between hardware and network.</em> </p>
-
-Web
-Chào bạn - Monica
