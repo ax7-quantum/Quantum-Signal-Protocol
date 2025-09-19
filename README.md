@@ -28,7 +28,6 @@ Distributed Data Processing: Process data where it's generated
 Edge Computing Networks: Turn IoT devices into supercomputers
 Global-Scale Simulations: Climate, molecular, economic modeling
 Getting Started
-Sao chép
 # Clone the repository
 git clone https://github.com/yourusername/quantum-signal-protocol.git
 
@@ -61,3 +60,6 @@ Q3 2026: Hardware acceleration modules for major platforms
 Q1 2027: Full integration with major cloud providers
 Q3 2027: Specialized QSP hardware for ultra-high performance applications
 <p align="center"> <em>QSP: Redefining the boundaries between hardware and network.</em> </p>
+
+Web
+Chào bạn - Monica
